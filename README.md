@@ -1,7 +1,9 @@
 
 # Designing Machine Learning Systems: Chapter Summaries
 
-![Designing Machine Learning Systems Cover](https://m.media-amazon.com/images/I/81aSHEzSB1L._AC_UF894,1000_QL80_.jpg)
+<p align="left">
+  <img src="https://m.media-amazon.com/images/I/81aSHEzSB1L._AC_UF894,1000_QL80_.jpg" alt="Designing Machine Learning Systems Cover" width="300"/>
+</p>
 
 ## Author
 Victor do Nascimento Gomes
