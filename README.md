@@ -1,6 +1,8 @@
 
 # Designing Machine Learning Systems: Chapter Summaries
 
+![Designing Machine Learning Systems Cover](https://m.media-amazon.com/images/I/81aSHEzSB1L._AC_UF894,1000_QL80_.jpg)
+
 ## Author
 Victor do Nascimento Gomes
 
@@ -17,4 +19,4 @@ This assignment involved creating video summaries for the first five chapters of
 4. **Chapter 4: Feature Engineering** - [Video Link](https://link_to_video)
 5. **Chapter 5: Evaluating ML Models** - [Video Link](https://link_to_video)
 
-Each link directs to a video hosted on Loom/YouTube, providing a concise summary of each chapter. 
+Each link directs to a video hosted on Loom e, providing a concise summary of each chapter. 
