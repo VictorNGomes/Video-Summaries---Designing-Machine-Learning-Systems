@@ -17,7 +17,7 @@ This assignment involved creating video summaries for the first five chapters of
 ## Video Links
 1. **Chapter 1: Overview of Machine Learning Systems** - [Video Link](https://www.loom.com/share/a5e3ceb3968c4df8a6e4e02ebfd90135?sid=ce9e9293-84bb-49ec-a96a-cbe8b00f4706)
 2. **Chapter 2: Framing the Problem for Success in ML** - [Video Link](https://www.loom.com/share/791e6ad44f4e41018d4c12b82699b589?sid=dec8b39e-9898-463a-a8c1-1e1b277c5607)
-3. **Chapter 3: Working with Data** - [Video Link](https://link_to_video)
+3. **Chapter 3: Working with Data** - [Video Link](https://www.loom.com/share/7a0bbd05a8b1480580b2fc5d0c11d8a9?sid=1a480d62-2363-406d-a44b-f12ed80674d7)
 4. **Chapter 4: Feature Engineering** - [Video Link](https://link_to_video)
 5. **Chapter 5: Evaluating ML Models** - [Video Link](https://link_to_video)
 
